@@ -1,0 +1,6 @@
+.DS_Store
+姜胡说_raw/
+.agents/
+.omc/
+.claude/
+skills-lock.json
