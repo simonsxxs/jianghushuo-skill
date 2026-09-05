@@ -1,14 +1,10 @@
 .DS_Store
-姜胡说_raw/
 .agents/
 .omc/
 .claude/
 skills-lock.json
 docs/
-scripts/
-references/
-fetch_jianghushuo.py
-analyze_jianghushuo.py
 jianghushuo-skill.zip
 咨询 skills/
 咨询 skills Claude 版/
+认知心理学/

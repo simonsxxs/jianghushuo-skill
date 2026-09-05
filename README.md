@@ -45,8 +45,18 @@
 .
 ├── SKILL.md               # 可运行的 Skill 文件
 ├── 姜胡说_思维体系.md      # 完整思维体系长文（阅读用）
-└── README.md              # 本文件
+├── README.md              # 本文件
+├── 姜胡说_raw/            # 一手素材：公开视频全文记录（500 余条，含 _index.json 发布时间索引）
+├── references/research/   # 分维度调研笔记（著作/对话/表达/他者视角/决策/时间线）
+├── fetch_jianghushuo.py   # 素材增量采集脚本（依赖 getnote CLI）
+└── analyze_jianghushuo.py # 素材统计分析脚本
 ```
+
+## 内容如何更新
+
+1. 运行 `python3 fetch_jianghushuo.py` 增量拉取最新公开内容到 `姜胡说_raw/`
+2. 对照新内容更新 `SKILL.md` 的「最新动态」与时间线，强化或修正已有模型
+3. 内容截止时间在 `SKILL.md` 的「诚实边界」中标注
 
 ---
 
