@@ -4,3 +4,11 @@
 .omc/
 .claude/
 skills-lock.json
+docs/
+scripts/
+references/
+fetch_jianghushuo.py
+analyze_jianghushuo.py
+jianghushuo-skill.zip
+咨询 skills/
+咨询 skills Claude 版/
